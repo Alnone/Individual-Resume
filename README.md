@@ -6,4 +6,6 @@ NCEPU Control and Computer Engineering
  
 wechat:jkljkl159159
 
-Focus on: RL
+Focus on: RDMA
+
+Work:Alibaba Cloud
